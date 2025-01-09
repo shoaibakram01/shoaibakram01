@@ -38,11 +38,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shoaibakram01&show_icons=true&count_private=true&hide_border=true&theme=prussian" align="center" /></div>
+<div align="center"><img src="https://github-stats-pink-two.vercel.app/api?username=shoaibakram01&show_icons=true&count_private=true&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibakram01&hide_border=true&layout=compact&theme=prussian" align="left" />
+<img src="https://github-stats-pink-two.vercel.app/api/top-langs/?username=shoaibakram01&hide_border=true&layout=compact&theme=prussian&langs_count=15" align="left" />
 
 </td></tr></table>  
 
