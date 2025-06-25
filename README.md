@@ -2,7 +2,7 @@
 ### <div align="center">I'm Shoaib Akram, a Software Engineer having 4+ years of experience as Blockchain Developer & Backend Developer👨‍💻 working since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Earned Network (formerly Amplifi](https://www.earned.network/) & Crypto Web Game  
+- 🔭 I’m currently working on [Earned Network (formerly Amplifi)](https://www.earned.network/) & Crypto Web Game  
   
 
 - 🌱 I’m currently learning Hyperledger  
